@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>wanting - simbolo-bussola</name>
+  <icon>simbolo-bussola.png</icon>
+  <default-height>1.0</default-height>
+  <connections>
+    <point x="-2.98023e-08" y="-5.96046e-08"/>
+    <point x="-2.98023e-08" y="-1"/>
+    <point x="-0.5" y="-0.5"/>
+    <point x="0.5" y="-0.5"/>
+    <point x="-2.38419e-08" y="-0.1"/>
+    <point x="-2.38419e-08" y="-0.9"/>
+    <point x="-0.4" y="-0.5"/>
+    <point x="0.4" y="-0.5"/>
+    <point x="-0.05" y="-0.55"/>
+    <point x="0.05" y="-0.45"/>
+    <point x="0.25" y="-0.75"/>
+    <point x="0" y="-0.5"/>
+    <point x="0.15" y="-0.6"/>
+    <point x="1.49012e-09" y="-0.4"/>
+    <point x="1.49012e-09" y="-0.6"/>
+    <point x="-0.1" y="-0.5"/>
+    <point x="0.1" y="-0.5"/>
+    <point x="-6.47926e-10" y="-0.447675"/>
+    <point x="-6.47926e-10" y="-0.552324"/>
+    <point x="-0.0523244" y="-0.5"/>
+    <point x="0.0523244" y="-0.5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #000000" cx="-2.98023e-08" cy="-0.5" rx="0.5" ry="0.5"/>
+    <svg:ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke: #ffffff" cx="-2.38419e-08" cy="-0.5" rx="0.4" ry="0.4"/>
+    <svg:polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" points="-0.05,-0.55 0.05,-0.45 0.25,-0.75 "/>
+    <svg:ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke-linejoin: round; stroke: #ffffff" cx="1.49012e-09" cy="-0.5" rx="0.1" ry="0.1"/>
+    <svg:ellipse style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.1; stroke-linejoin: round; stroke: #000000" cx="-6.47926e-10" cy="-0.5" rx="0.0523244" ry="0.0523244"/>
+  </svg:svg>
+</shape>

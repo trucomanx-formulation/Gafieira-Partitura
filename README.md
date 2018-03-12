@@ -1,2 +1,1 @@
-# Gafieira-Partitura
-gafieira-partitura
+Partitura de notação de movimiento 
